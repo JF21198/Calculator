@@ -1,0 +1,14 @@
+c:\users\fortes2\documents\visual studio 2015\Projects\401K Calculator\401K Calculator\bin\Debug\401K Calculator.exe.config
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\401K Calculator.csprojResolveAssemblyReference.cache
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\App.g.cs
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\401K Calculator_MarkupCompile.cache
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\401K Calculator_MarkupCompile.lref
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\bin\Debug\401K Calculator.exe
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\bin\Debug\401K Calculator.pdb
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\MainWindow.baml
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\401K Calculator.g.resources
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\_401K_Calculator.Properties.Resources.resources
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\401K Calculator.csproj.GenerateResource.Cache
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\401K Calculator.exe
+C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\401K Calculator.pdb
