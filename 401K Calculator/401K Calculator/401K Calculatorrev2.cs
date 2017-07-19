@@ -73,26 +73,40 @@ namespace _401K_Calculator
 
 
             contribution = (percent / 100) * (rate * hours_worked);
-            k_amount = balance + (contribution * installments);
+            
             yearly_cont = contribution * installments;
-            decimal yearly_cont_mon = 0;
+            double raise = 0;
+            //annual raise as a percentage
+            double Salary_increase = rate * raise;
+            //New hourly rate after raise
+            decimal yearly_cont_mon = 0; 
             yearly_cont_mon = Convert.ToDecimal(yearly_cont);
 
 
             Console.WriteLine("Estimated  yearly 401K contribution : {0}", yearly_cont_mon.ToString("C"));
             //Console.WriteLine(yearly_cont_mon.ToString("C"));
 
-           // retirement = (balance * Math.Pow((1 + interest), years)) + yearly_cont * (((Math.Pow((1 + interest), years)) - 1) / interest);
 
-           for (double i = 0; i <= years; i++)
+
+
+
+           retirement = (balance * Math.Pow((1 + interest), years)) + yearly_cont * (((Math.Pow((1 + interest), years)) - 1) / interest);
+
+          
+            
+            
+            
+            
+            
+            /*for (double i = 0; i <= years; i++)
             {
 
 
                retirement = (balance * Math.Pow((1 + interest), years)) + yearly_cont*(((Math.Pow((1 + interest), years)) - 1) / interest);
                 
                 
-                //retirement = (/*k_amount * Math.Pow((1 + interest), years) + */(yearly_cont * (Math.Pow((1 + interest), years) - 1)/interest));
-            }
+                retirement = (/*k_amount * Math.Pow((1 + interest), years) + (yearly_cont * (Math.Pow((1 + interest), years) - 1)/interest));
+            }*/
 
             Console.WriteLine("Estimated 401K balance at retirement : {0}", retirement);
                   
