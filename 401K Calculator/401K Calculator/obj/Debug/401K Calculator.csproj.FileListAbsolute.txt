@@ -12,3 +12,6 @@ C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calc
 C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\401K Calculator.csproj.GenerateResource.Cache
 C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\401K Calculator.exe
 C:\Users\fortes2\Documents\Visual Studio 2015\Projects\401K Calculator\401K Calculator\obj\Debug\401K Calculator.pdb
+C:\Users\fortes2\Documents\GitHub\Calculator\401K Calculator\401K Calculator\bin\Debug\401K Calculator.exe.config
+C:\Users\fortes2\Documents\GitHub\Calculator\401K Calculator\401K Calculator\obj\Debug\401K Calculator.exe
+C:\Users\fortes2\Documents\GitHub\Calculator\401K Calculator\401K Calculator\obj\Debug\401K Calculator.pdb
